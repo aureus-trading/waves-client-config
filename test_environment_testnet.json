@@ -10,12 +10,12 @@
   "scheme": "T",
   "generalAssets": [
     {
-      "assetId": "WAVES",
+      "assetId": "TN",
       "displayName": "Waves",
       "isFiat": false,
       "isGateway": false,
-      "wavesId": "WAVES",
-      "gatewayId": "WAVES",
+      "wavesId": "TN",
+      "gatewayId": "TN",
       "gatewayType": "",
       "addressRegEx": ""
     },

@@ -13,12 +13,12 @@
       "iconUrls": {
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/waves.png"
       },
-      "assetId": "WAVES",
+      "assetId": "TN",
       "displayName": "Waves",
       "isFiat": false,
       "isGateway": false,
-      "wavesId": "WAVES",
-      "gatewayId": "WAVES",
+      "wavesId": "TN",
+      "gatewayId": "TN",
       "gatewayType": "",
       "addressRegEx": ""
     },
@@ -206,6 +206,6 @@
     }
   ],
   "assets": [
-    
+
   ]
 }

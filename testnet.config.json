@@ -62,15 +62,15 @@
        "end_date": "Fri Nov 15 2019 03:00:00 GMT+0300",
        "wsoc": true,
        "text": {
-         "en": "Earn up to 7% annual on Waves DEX! Lease your WAVES and earn passive income. It’s easy! Just click on ‘Leasing’ at the ‘Wallet’ tab.",
-         "ru": "Зарабатывайте до 7% годовых на Waves DEX! Передайте WAVES в лизинг и получайте пассивный доход. Это просто! Выберите «Лизинг» во вкладке «Кошелек»."
+         "en": "Earn up to 7% annual on Waves DEX! Lease your TN and earn passive income. It’s easy! Just click on ‘Leasing’ at the ‘Wallet’ tab.",
+         "ru": "Зарабатывайте до 7% годовых на Waves DEX! Передайте TN в лизинг и получайте пассивный доход. Это просто! Выберите «Лизинг» во вкладке «Кошелек»."
        }
      }
     ],
   "SETTINGS": {
     "DEX": {
       "WATCH_LIST_PAIRS": [
-        "WAVES",
+        "TN",
         "AsuWyM9MUUsMmWkK7jS48L3ky6gA1pxx7QtEYPbfLjAJ",
         "D6N2rAqWN6ZCWnCeNFWLGqqjS6nJLeK4m19XiuhdDenr",
         "DWgwcZTMhSvnyYCoWLRUXXSH1RSkzThXLJhww9gwkqdn",
