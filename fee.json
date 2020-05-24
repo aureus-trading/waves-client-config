@@ -23,7 +23,7 @@
       "fee": 1000000000
     },
     "11": {
-      "price_per_transfer": 50000
+      "price_per_transfer": 1000000
     },
     "12": {
       "price_per_kb": 100000
